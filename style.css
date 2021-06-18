@@ -1,0 +1,56 @@
+body{
+	background-color: honeydew;
+	padding-left: 20px;
+	
+}
+
+h1{
+	font-family: Georgia, 'Times New Roman',Times, serif;
+	background-color:deepskyblue;
+	text-align: center;
+}
+
+h3{
+	text-decoration: underline;
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	font-family: monospace;
+}
+
+.links a:hover{
+	color: red;
+}
+
+.blue{
+	color: blue;
+}
+.espacar{
+ line-height: 40px;
+ text-decoration: underline;
+}
+
+.foto{
+	border: 2px solid white;
+	border-radius: 10%;
+	padding: 10px;
+	background-color: aqua;
+}
+
+.sobreMim{
+	position: absolute;
+	border: 2px dotted blue;
+	border-radius: 10px;
+	top: 130px;
+	left: 260px;
+	padding: 1em;
+}
+
+.impar li:nth-child(odd){
+	background-color: yellow;
+}
+
