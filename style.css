@@ -1,18 +1,35 @@
 body{
 	background-color: honeydew;
+	padding-left: 20px;
 	
 }
 
 h1{
 	font-family: Georgia, 'Times New Roman',Times, serif;
-	border: 1px solid green;
+	background-color:deepskyblue;
 	text-align: center;
+	
+}
+
+a{
+	text-decoration: none;
 }
 
 p{
 	font-family: monospace;
 }
 
+.links a:hover{
+	color: red;
+}
+
+.blue{
+	color: blue;
+}
+.espacar{
+ line-height: 40px;
+ text-decoration: underline;
+}
 .foto{
 	border: 2px solid white;
 	border-radius: 10%;
@@ -20,16 +37,14 @@ p{
 	background-color: aqua;
 }
 .sobreMim{
-	border: 1px solid blue;
 	position: absolute;
-	top: 90px;
-	left: 240px;
+	border: 2px dotted blue;
+	border-radius: 10px;
+	top: 130px;
+	left: 260px;
+	padding: 10px;
 }
 
-.linkedin{
+.linkedin, .blog{
 	line-height: 30px;
-}
-	
-.blog{
-	line-height: 40px;
 }
