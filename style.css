@@ -5,6 +5,7 @@ body{
 h1{
 	font-family: Georgia, 'Times New Roman',Times, serif;
 	border: 1px solid green;
+	text-align: center;
 }
 
 p{
