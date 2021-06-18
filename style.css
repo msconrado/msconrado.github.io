@@ -1,0 +1,28 @@
+body{
+	background-color: turquoise;
+}
+
+h1{
+	font-family: Georgia, 'Times New Roman',Times, serif;
+	border: 1px solid green;
+}
+
+p{
+	font-family: monospace;
+}
+
+.foto{
+	border: 2px solid white;
+	border-radius: 10%;
+}
+.sobreMim{
+	border: 1px solid blue;
+}
+
+.linkedin{
+	line-height: 30px;
+}
+	
+.blog{
+	line-height: 40px;
+}
