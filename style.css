@@ -8,7 +8,10 @@ h1{
 	font-family: Georgia, 'Times New Roman',Times, serif;
 	background-color:deepskyblue;
 	text-align: center;
-	
+}
+
+h3{
+	text-decoration: underline;
 }
 
 a{
@@ -30,21 +33,24 @@ p{
  line-height: 40px;
  text-decoration: underline;
 }
+
 .foto{
 	border: 2px solid white;
 	border-radius: 10%;
 	padding: 10px;
 	background-color: aqua;
 }
+
 .sobreMim{
 	position: absolute;
 	border: 2px dotted blue;
 	border-radius: 10px;
 	top: 130px;
 	left: 260px;
-	padding: 10px;
+	padding: 1em;
 }
 
-.linkedin, .blog{
-	line-height: 30px;
+.impar li:nth-child(odd){
+	background-color: yellow;
 }
+
