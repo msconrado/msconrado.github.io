@@ -17,6 +17,9 @@ p{
 }
 .sobreMim{
 	border: 1px solid blue;
+	position: absolute;
+	top: 90px;
+	left: 230px;
 }
 
 .linkedin{
