@@ -1,5 +1,6 @@
 body{
-	background-color: turquoise;
+	background-color: honeydew;
+	
 }
 
 h1{
@@ -15,12 +16,14 @@ p{
 .foto{
 	border: 2px solid white;
 	border-radius: 10%;
+	padding: 10px;
+	background-color: aqua;
 }
 .sobreMim{
 	border: 1px solid blue;
 	position: absolute;
 	top: 90px;
-	left: 230px;
+	left: 240px;
 }
 
 .linkedin{
